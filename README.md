@@ -1,5 +1,5 @@
 # node.js-excercise
-Repo set up for Traversy's Node.js crash course
+Repo set up for Traversy's Node.js crash course https://www.youtube.com/watch?v=fBNz5xF-Kx4
 
 ## Technologies & tools used:
 * Node.js
